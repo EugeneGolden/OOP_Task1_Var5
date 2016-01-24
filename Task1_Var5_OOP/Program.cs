@@ -85,7 +85,6 @@ namespace Task1_Var5_OOP
             circ2.Print();
 
             Console.ReadKey();
-
         }
     }
 }
